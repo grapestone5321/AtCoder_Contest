@@ -14,7 +14,6 @@ https://atcoder.jp/contests/apg4b?lang=en
 https://kenkoooo.com/atcoder/#/table/
 
 
-
 -------
 
 
