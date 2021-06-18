@@ -67,3 +67,9 @@ https://kenkoooo.com/atcoder/#/table/
 https://kato-hiro.github.io/AtCoderClans/milestones#gsc.tab=0
 
 -------
+
+
+## Practical Algorithm Skill Test (PAST)
+https://past.atcoder.jp/
+
+-------
