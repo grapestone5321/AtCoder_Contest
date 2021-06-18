@@ -61,6 +61,8 @@ https://kenkoooo.com/atcoder/#/table/
 
 - AtCoder Grand Contest: AGC
 
+- Practical Algorithm Skill Test: PAST
+
 -------
 
 ## AtCoder Clans
