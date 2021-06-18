@@ -7,6 +7,8 @@ AtCoder_Contest-1
 ## AtCoder Programming Guide for beginners (APG4b)
 https://atcoder.jp/contests/apg4b?lang=en
 
+      EX1 - EX26
+      
 -------
 
 
@@ -35,9 +37,18 @@ https://qiita.com/drken/items/fd4e5e3630d0f5859067#5-%E9%81%8E%E5%8E%BB%E5%95%8F
 
 -------
 
-## atcoder contests typical90
+## atcoder contests typical 90
 https://atcoder.jp/contests/typical90
 
+### level 1 - level 7:
+      level 1:  ABC - B
+      level 2:  ABC - C
+      level 3:  
+      level 4:  ABC - D
+      level 5:  ABC - E
+      level 6:
+      level 7:
+      
 
 -------
 
