@@ -1,5 +1,5 @@
-# AtCoder_Contest-1
-AtCoder_Contest-1
+# AtCoder_Contest
+AtCoder_Contest
 
 
 -------
@@ -79,6 +79,10 @@ https://kato-hiro.github.io/AtCoderClans/milestones#gsc.tab=0
 https://github.com/drken1215/book_algorithm_solution
 
 
+-------
+
+## AtCoder Live
+https://www.youtube.com/c/AtCoderLive/videos
 
 -------
 
