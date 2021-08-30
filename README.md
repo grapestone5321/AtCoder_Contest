@@ -86,3 +86,9 @@ https://www.youtube.com/c/AtCoderLive/videos
 
 -------
 
+## Tushar Roy - Coding Made Simple
+https://www.youtube.com/user/tusharroy2525/featured
+
+
+
+-------
