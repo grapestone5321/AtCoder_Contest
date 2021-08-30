@@ -101,5 +101,9 @@ https://www.youtube.com/c/BackToBackSWE/playlists
 
 # Papers
 
+## Data Structures and Algorithms in C++
+http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf
+
+
 -------
 
