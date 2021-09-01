@@ -108,6 +108,20 @@ http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_
 -------
 -------
 
+# Boot camp for Beginners
+https://kenkoooo.com/atcoder/#/training
+
+3 sets / 300 problems
+
+- Easy 100 
+
+- Medium 100 
+
+- Hard 100 
+
+-------
+-------
+
 # Basics
 
 ## APG4b
@@ -135,6 +149,13 @@ https://atcoder.jp/contests/APG4b
 ## Greedy Algorithms
 
 - ABC076B
--
+
+
+## DP
+### Educational DP Contest
+https://atcoder.jp/contests/dp
+
+
+
 -------
 
