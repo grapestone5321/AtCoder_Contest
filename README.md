@@ -13,7 +13,7 @@ https://atcoder.jp/contests/apg4b?lang=en
       EX1 - EX26
 
 -------
--------
+
 
 
 ## AtCoder Beginners Selection
@@ -40,7 +40,7 @@ https://qiita.com/drken/items/fd4e5e3630d0f5859067#5-%E9%81%8E%E5%8E%BB%E5%95%8F
 
 
 -------
--------
+
 
 ## Boot camp for Beginners
 https://kenkoooo.com/atcoder/#/training
@@ -68,7 +68,45 @@ https://atcoder.jp/contests/typical90
       level 7:
 
 
-      
+
+-------
+-------
+
+# Data Structures and Algorithms
+
+
+# Sorting
+
+- ABC088B
+
+- ABC067B
+
+- ABC042B
+
+
+# Graph Algorithms
+
+## BFS
+
+- ABC007 C
+
+# Advanced Design and Analysis Techniques
+
+## Greedy Algorithms
+
+- ABC076B
+
+
+## DP
+### Educational DP Contest
+https://atcoder.jp/contests/dp
+
+
+
+
+
+
+
 -------
 -------
 
@@ -124,35 +162,7 @@ https://github.com/drken1215/book_algorithm_solution
 
 
 
--------
--------
 
-
-# Sorting
-
-- ABC088B
-
-- ABC067B
-
-- ABC042B
-
-
-# Graph Algorithms
-
-## BFS
-
-- ABC007 C
-
-# Advanced Design and Analysis Techniques
-
-## Greedy Algorithms
-
-- ABC076B
-
-
-## DP
-### Educational DP Contest
-https://atcoder.jp/contests/dp
 
 
 
