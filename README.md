@@ -1,14 +1,18 @@
 # AtCoder_Contest
 AtCoder_Contest
 
-
 -------
+-------
+
+# Basics
+
 
 ## AtCoder Programming Guide for beginners (APG4b)
 https://atcoder.jp/contests/apg4b?lang=en
 
       EX1 - EX26
-      
+
+-------
 -------
 
 
@@ -35,9 +39,37 @@ https://qiita.com/drken/items/fd4e5e3630d0f5859067#5-%E9%81%8E%E5%8E%BB%E5%95%8F
       10: ABC 086 C - Traveling (300)
 
 
+-------
+-------
+
+## Boot camp for Beginners
+https://kenkoooo.com/atcoder/#/training
+
+3 sets / 300 problems
+
+- Easy 100 
+
+- Medium 100 
+
+- Hard 100 
+
+-------
+
+## atcoder contests typical 90
+https://atcoder.jp/contests/typical90
+
+### level 1 - level 7:
+      level 1:  ABC - B
+      level 2:  ABC - C
+      level 3:  
+      level 4:  ABC - D
+      level 5:  ABC - E
+      level 6:
+      level 7:
+
 
       
-
+-------
 -------
 
 ## AtCoder Problems
@@ -91,43 +123,9 @@ http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_
 https://github.com/drken1215/book_algorithm_solution
 
 
--------
--------
-
-## Boot camp for Beginners
-https://kenkoooo.com/atcoder/#/training
-
-3 sets / 300 problems
-
-- Easy 100 
-
-- Medium 100 
-
-- Hard 100 
-
--------
-
-## atcoder contests typical 90
-https://atcoder.jp/contests/typical90
-
-### level 1 - level 7:
-      level 1:  ABC - B
-      level 2:  ABC - C
-      level 3:  
-      level 4:  ABC - D
-      level 5:  ABC - E
-      level 6:
-      level 7:
-
 
 -------
 -------
-
-# Basics
-
-## APG4b
-https://atcoder.jp/contests/APG4b
-
 
 
 # Sorting
