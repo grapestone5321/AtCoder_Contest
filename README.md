@@ -35,19 +35,7 @@ https://qiita.com/drken/items/fd4e5e3630d0f5859067#5-%E9%81%8E%E5%8E%BB%E5%95%8F
       10: ABC 086 C - Traveling (300)
 
 
--------
 
-## atcoder contests typical 90
-https://atcoder.jp/contests/typical90
-
-### level 1 - level 7:
-      level 1:  ABC - B
-      level 2:  ABC - C
-      level 3:  
-      level 4:  ABC - D
-      level 5:  ABC - E
-      level 6:
-      level 7:
       
 
 -------
@@ -74,24 +62,19 @@ https://past.atcoder.jp/
 https://kato-hiro.github.io/AtCoderClans/milestones#gsc.tab=0
 
 -------
-
-## drken1215/book_algorithm_solution
-https://github.com/drken1215/book_algorithm_solution
-
-
 -------
+
+# Youtube
 
 ## AtCoder Live
 https://www.youtube.com/c/AtCoderLive/videos
 
--------
+
 
 ## Tushar Roy - Coding Made Simple
 https://www.youtube.com/user/tusharroy2525/featured
 
 
-
--------
 
 ## Back To Back SWE
 https://www.youtube.com/c/BackToBackSWE/playlists
@@ -104,11 +87,14 @@ https://www.youtube.com/c/BackToBackSWE/playlists
 ## Data Structures and Algorithms in C++
 http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf
 
+## drken1215/book_algorithm_solution
+https://github.com/drken1215/book_algorithm_solution
+
 
 -------
 -------
 
-# Boot camp for Beginners
+## Boot camp for Beginners
 https://kenkoooo.com/atcoder/#/training
 
 3 sets / 300 problems
@@ -118,6 +104,21 @@ https://kenkoooo.com/atcoder/#/training
 - Medium 100 
 
 - Hard 100 
+
+-------
+
+## atcoder contests typical 90
+https://atcoder.jp/contests/typical90
+
+### level 1 - level 7:
+      level 1:  ABC - B
+      level 2:  ABC - C
+      level 3:  
+      level 4:  ABC - D
+      level 5:  ABC - E
+      level 6:
+      level 7:
+
 
 -------
 -------
