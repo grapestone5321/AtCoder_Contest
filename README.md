@@ -55,7 +55,7 @@ https://kenkoooo.com/atcoder/#/training
 
 -------
 
-## atcoder contests typical 90
+## AtCoder contests typical 90
 https://atcoder.jp/contests/typical90
 
 ### level 1 - level 7:
