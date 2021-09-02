@@ -150,6 +150,12 @@ https://www.youtube.com/user/tusharroy2525/featured
 https://www.youtube.com/c/BackToBackSWE/playlists
 
 
+## Data Structures and Algorithms: GATEBOOK VIDEO LECTURES
+https://www.youtube.com/playlist?list=PLsFENPUZBqipuTJXgm7xAOR0UnY_8OY07
+
+
+updated on Dec 31, 2020
+
 -------
 
 # Papers
