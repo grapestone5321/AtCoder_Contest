@@ -139,7 +139,12 @@ https://kato-hiro.github.io/AtCoderClans/milestones#gsc.tab=0
 ## AtCoder Live
 https://www.youtube.com/c/AtCoderLive/videos
 
+## Introduction to Algorithms: MIT Course Number: 6.006
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
 
+- Instructor(s): Prof. Erik Demaine, Prof. Srini Devadas
+
+https://www.youtube.com/watch?v=HtSuA80QTyo&t=543s
 
 ## Tushar Roy - Coding Made Simple
 https://www.youtube.com/user/tusharroy2525/featured
