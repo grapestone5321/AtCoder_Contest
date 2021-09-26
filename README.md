@@ -168,13 +168,15 @@ updated on Dec 31, 2020
 ## Data Structures and Algorithms in C++
 http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf
 
+
+------
+
 ## drken1215/book_algorithm_solution
 https://github.com/drken1215/book_algorithm_solution
 
 
-
-
-
+## drken1215.hatenablog.com
+https://drken1215.hatenablog.com/
 
 
 -------
